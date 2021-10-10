@@ -1,3 +1,3 @@
-module gitlab.com/gocor/corutil
+module github.com/gocor/corutil
 
 go 1.17
